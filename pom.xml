@@ -25,6 +25,7 @@
 
 	<scm>
 		<connection>scm:git:git://github.com/wkl3nk/simple-maven-java.git</connection>
+		<developerConnection>scm:git:ssh://github.com/wkl3nk/simple-maven-java.git</developerConnection>
 		<url>https://github.com/wkl3nk/simple-maven-java</url>
 		<tag>HEAD</tag>
 	</scm>
