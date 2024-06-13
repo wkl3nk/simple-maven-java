@@ -1,5 +1,7 @@
 # simple-maven-java
 
+Copyright (c) 2024 Wolfgang Klenk
+
 Simple maven project that allows to deploy packages on 
 maven.pkg.github.com
 
@@ -15,7 +17,7 @@ The ```$HOME/.m2/settings.xml``` file contains the credentials for this maven re
 The ```password``` is a personal access token (PAT) that is created in the github account settings.
 This PAT requires the ```write:packages``` scope and ```repo``` scopes.
 
-Explicitly added a copyleft license to the project.
+Explicitly added a **copyleft license** to the project.
 
-(C) 2024 Wolfgang Klenk
+
 
