@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.wkl3nk</groupId>
 	<artifactId>simple-maven-java</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>simple-maven-java</name>
 	<description>Demo project Simple Maven Java with github.com maven package repository</description>
